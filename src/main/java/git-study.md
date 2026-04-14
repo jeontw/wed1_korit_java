@@ -20,3 +20,9 @@
 1. 원격저장소 주소를 저장 - git remote add origin 레포지도리주소
 2. 최초 push시, 원격저장소와 로컬을 동기화
 - git push -u origin main
+
+
+
+
+
+
