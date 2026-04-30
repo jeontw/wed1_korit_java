@@ -24,5 +24,19 @@
 
 
 
+git remote add origin https://github.com/jeontw/wed1_korit_java.git
 
+git push -u origin main
+
+자격증명관리
+윈도우즈 자격즈명
+제거
+
+
+
+수정하기!!!!
+
+git add .
+git commit -m"test"
+git push
 
