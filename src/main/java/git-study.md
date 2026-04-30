@@ -40,3 +40,6 @@ git add .
 git commit -m"test"
 git push
 
+주소 복사
+오픈 깃 배쉬 히어 
+git clone 주소
