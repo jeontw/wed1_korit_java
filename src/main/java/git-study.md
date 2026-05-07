@@ -43,3 +43,12 @@ git push
 주소 복사
 오픈 깃 배쉬 히어 
 git clone 주소
+
+### 추가내용
+
+1. git repository 다운받기
+- git clone 레포지토리 주소
+
+2. 원격 저장소가 버전이 더 높을 경우
+- git fetch (원격저장소와 통신해서 최신내역 확인)
+- git pull (원격저장소의 버전으로 로컬 덮어쓰기)
